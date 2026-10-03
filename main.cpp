@@ -55,7 +55,7 @@ while
 {
 
 {
-std::cout << "the menu is closed... \n SEE YA! >:p)";
+std::cout << "the menu is closed... \n SEE YA! >:p)\n";
 }
 
 }
