@@ -16,7 +16,7 @@ do
 
 
 
-std::cout << "Hello! Input a number to choose a menu option.\n   1. Say Hello!\n   2. Countdown\n   3. Exit\n ";
+std::cout << "Hello! Input a number to choose a menu option.\n    1. Say Hello!\n    2. Countdown\n    3. Exit\n ";
 std::cin >> u;
 
 if (u == 1) 
@@ -55,7 +55,7 @@ while
 {
 
 {
-std::cout << "the menu is closed... \n SEE YA! >:p)\n";
+std::cout << "  the menu is closed... \n   SEE YA! (>:p)\n";
 }
 
 }
