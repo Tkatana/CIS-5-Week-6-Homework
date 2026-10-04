@@ -42,7 +42,7 @@ std::cout << t << "\n";
 else if (u == 3) 
 
 
-std::cout << "I'm programmed to say:\nthe menu is closed.\n ";
+std::cout << "I'm programmed to say\nthe menu is closed.\n ";
 
 
 }
