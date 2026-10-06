@@ -1,4 +1,4 @@
-// Homework 6 — Your Name
+// Homework 6 — Tyler Quintana
 // CIS 5 Week 06 · Menu
 
 #include <iostream>
